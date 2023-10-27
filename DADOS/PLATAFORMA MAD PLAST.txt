@@ -1,0 +1,14 @@
+{
+  "codigo": "3003010016",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020095_KIT PF PLATAFORMA MAD PLAST"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PLATAFORMA MAD PLAST",
+  "peso": "50.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

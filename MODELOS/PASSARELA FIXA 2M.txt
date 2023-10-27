@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020002_KIT PF PASS FIXA"
+  ],
+  "nome": "PASSARELA FIXA 2M"
+}

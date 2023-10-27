@@ -1,0 +1,5 @@
+{
+  "codigo": "50520004",
+  "nome": "CORDA 14MM",
+  "tipo_derivacao": "05_unica"
+}

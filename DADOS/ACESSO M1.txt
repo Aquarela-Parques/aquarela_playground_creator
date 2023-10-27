@@ -1,0 +1,14 @@
+{
+  "codigo": "2102130002",
+  "derivacao": "50_lilas",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "50_lilas",
+    "60_verde",
+    "70_vermelho"
+  ],
+  "nome": "ACESSO M1",
+  "peso": "15.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

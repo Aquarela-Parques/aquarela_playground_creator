@@ -1,0 +1,11 @@
+{
+  "codigo": "3003010006",
+  "derivacao": "40_laranja",
+  "lista_derivacao": [
+    "60_verde",
+    "40_laranja",
+    "70_vermelho"
+  ],
+  "nome": "RAMPA DE ESCALADA",
+  "tipo_derivacao": "10_cores"
+}

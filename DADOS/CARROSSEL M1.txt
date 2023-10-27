@@ -1,0 +1,14 @@
+{
+  "codigo": "3003000010",
+  "derivacao": "98_sortida",
+  "kits_pf": [
+    "3003020170_KIT PF CARROSSEL M1"
+  ],
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "CARROSSEL M1",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

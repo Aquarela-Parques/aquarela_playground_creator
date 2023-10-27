@@ -1,0 +1,5 @@
+{
+  "codigo": "3003010004",
+  "nome": "DECK CARACOL FIBRA",
+  "tipo_derivacao": "05_unica"
+}

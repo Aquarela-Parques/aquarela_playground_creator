@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020046_KIT PF FOGUETINHO TERRA",
+    "3003020051_KIT PF FOGUETINHO PISO"
+  ],
+  "nome": "FOGUETINHO"
+}

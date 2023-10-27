@@ -1,0 +1,15 @@
+{
+  "codigo": "2262260018",
+  "derivacao": "05_unica",
+  "kits_pf": [
+    "3003020081_KIT PF CIRCUITO DE DISCO PISO",
+    "3003020080_KIT PF CIRCUITO DE DISCO TERRA"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "TRAV CIRC DISCO M1 PINT",
+  "peso": "7.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

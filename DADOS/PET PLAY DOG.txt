@@ -1,0 +1,11 @@
+{
+  "codigo": "4004000031",
+  "derivacao": "unica",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PET PLAY DOG",
+  "peso": 0.0,
+  "preco": 0.0,
+  "tipo_derivacao": "05_unica"
+}

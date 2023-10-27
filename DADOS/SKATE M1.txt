@@ -1,0 +1,14 @@
+{
+  "codigo": "3003000006",
+  "derivacao": "60_verde",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "60_verde",
+    "30_azul",
+    "70_vermelho"
+  ],
+  "nome": "SKATE M1",
+  "peso": "2.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

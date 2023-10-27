@@ -1,0 +1,11 @@
+{
+  "codigo": "2262260058",
+  "derivacao": "unica",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "BASE ESCADA HORIZONTAL AV PINT",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

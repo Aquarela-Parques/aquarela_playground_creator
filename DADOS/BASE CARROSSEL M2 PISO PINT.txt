@@ -1,0 +1,5 @@
+{
+  "codigo": "2262260027",
+  "nome": "BASE CARROSSEL M2 PISO PINT",
+  "tipo_derivacao": "05_unica"
+}

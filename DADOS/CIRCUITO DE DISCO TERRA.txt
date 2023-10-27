@@ -1,0 +1,14 @@
+{
+  "codigo": "3003000007",
+  "derivacao": "99_colorida",
+  "lista_derivacao": [
+    "99_colorida",
+    "60_verde",
+    "30_azul",
+    "20_amarelo",
+    "40_laranja",
+    "70_vermelho"
+  ],
+  "nome": "CIRCUITO DE DISCO TERRA",
+  "tipo_derivacao": "10_cores"
+}

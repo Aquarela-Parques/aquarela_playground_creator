@@ -1,0 +1,14 @@
+{
+  "codigo": "2102199009",
+  "derivacao": "99_colorida",
+  "kits_pf": [
+    "0_KIT PF NULO"
+  ],
+  "lista_derivacao": [
+    "99_colorida"
+  ],
+  "nome": "TAMPA M1",
+  "peso": "0.10000000149011612",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

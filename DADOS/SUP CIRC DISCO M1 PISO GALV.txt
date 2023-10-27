@@ -1,0 +1,11 @@
+{
+  "codigo": "2232230015",
+  "derivacao": "unica",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "SUP CIRC DISCO M1 PISO GALV",
+  "peso": 0.30000001192092896,
+  "preco": 0.0,
+  "tipo_derivacao": "05_unica"
+}

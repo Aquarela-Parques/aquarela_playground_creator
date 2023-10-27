@@ -1,0 +1,5 @@
+{
+  "codigo": "3003010003",
+  "nome": "PASSARELA FIXA 3M",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,12 @@
+{
+  "codigo": "2262260064",
+  "derivacao": "05_unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "EST 3M TUNEL PINT",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

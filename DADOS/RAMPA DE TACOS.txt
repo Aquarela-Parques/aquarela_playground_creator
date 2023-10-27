@@ -1,0 +1,15 @@
+{
+  "codigo": "3003010005",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020058_KIT PF RAMPA TERRA",
+    "3003020022_KIT PF RAMPA PISO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "RAMPA DE TACOS",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

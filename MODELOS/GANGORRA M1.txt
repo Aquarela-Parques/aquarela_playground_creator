@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020065_KIT PF GANGORRA M1 TERRA",
+    "3003020064_KIT PF GANGORRA M1 PISO"
+  ],
+  "nome": "GANGORRA M1"
+}

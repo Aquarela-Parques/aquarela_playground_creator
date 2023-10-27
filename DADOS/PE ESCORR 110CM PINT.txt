@@ -1,0 +1,5 @@
+{
+  "codigo": "2262262008",
+  "nome": "PE ESCORR 110CM PINT",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,15 @@
+{
+  "codigo": "2262260007",
+  "derivacao": "05_unica",
+  "kits_pf": [
+    "3003020047_KIT PF BOMBEIRO DE DISCO TERRA",
+    "3003020027_KIT PF BOMBEIRO DE DISCO PISO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "BOMBEIRO DE DISCO M1 PINT",
+  "peso": "20.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

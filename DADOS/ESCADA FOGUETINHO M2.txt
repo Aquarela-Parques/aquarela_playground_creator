@@ -1,0 +1,11 @@
+{
+  "codigo": "3003000023",
+  "derivacao": "98_sortida",
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "ESCADA FOGUETINHO M2",
+  "peso": "9.3",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

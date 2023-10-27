@@ -1,0 +1,4 @@
+{
+  "kits_pf": [],
+  "nome": "FOGUETINHO M2"
+}

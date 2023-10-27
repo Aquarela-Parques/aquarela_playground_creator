@@ -1,0 +1,12 @@
+{
+  "codigo": "3003000016",
+  "derivacao": "30_azul",
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "MEIO DUTO TOBOGA M1",
+  "peso": 17.5,
+  "preco": 0.0,
+  "tipo_derivacao": "10_cores"
+}

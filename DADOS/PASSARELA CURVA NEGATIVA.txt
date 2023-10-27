@@ -1,0 +1,12 @@
+{
+  "codigo": "3003010011",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PASSARELA CURVA NEGATIVA",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020121_KIT PF RAMPA DE TACOS M2 TERRA",
+    "3003020122_KIT PF RAMPA DE TACOS M2 PISO"
+  ],
+  "nome": "RAMPA DE TACOS M2"
+}

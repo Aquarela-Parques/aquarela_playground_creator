@@ -1,0 +1,5 @@
+{
+  "codigo": "2262262003",
+  "nome": "SUP CORDA RAMPA NO PINT",
+  "tipo_derivacao": "05_unica"
+}

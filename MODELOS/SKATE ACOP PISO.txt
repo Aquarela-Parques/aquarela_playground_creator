@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020105_KIT PF SKATE M1 ACOPLADO PISO"
+  ],
+  "nome": "SKATE ACOP PISO"
+}

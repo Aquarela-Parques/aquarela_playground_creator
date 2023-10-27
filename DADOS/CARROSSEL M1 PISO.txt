@@ -1,0 +1,9 @@
+{
+  "codigo": "4004000001",
+  "derivacao": "98_sortida",
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "CARROSSEL M1 PISO",
+  "tipo_derivacao": "10_cores"
+}

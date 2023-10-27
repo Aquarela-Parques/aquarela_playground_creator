@@ -1,0 +1,5 @@
+{
+  "codigo": "40410001",
+  "nome": "COLUNA  MAD PLAST 9X9",
+  "tipo_derivacao": "20_tam mad plast"
+}

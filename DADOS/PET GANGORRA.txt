@@ -1,0 +1,15 @@
+{
+  "codigo": "4004000029",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020125_KIT PF PET GANGORRA TERRA",
+    "3003020126_KIT PF PET GANGORRA PISO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PET GANGORRA",
+  "peso": "10.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

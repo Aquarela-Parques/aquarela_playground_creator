@@ -1,0 +1,19 @@
+{
+  "codigo": "2102130001",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020169_KIT PF ESCADA M1",
+    "3003020159_KIT PF ANCORAGEM PISO M1",
+    "3003020160_KIT PF ANCORAGEM TERRA M1"
+  ],
+  "lista_derivacao": [
+    "30_azul",
+    "70_vermelho",
+    "60_verde",
+    "50_lilas"
+  ],
+  "nome": "ESCADA M1",
+  "peso": "13.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

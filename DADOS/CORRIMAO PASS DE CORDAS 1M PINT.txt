@@ -1,0 +1,12 @@
+{
+  "codigo": "2262261016",
+  "derivacao": "05_unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "CORRIMAO PASS DE CORDAS 1M PINT",
+  "peso": "2.9000000953674316",
+  "preco": "32.0",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020186_KIT PF FIXACAO M2",
+    "3003020186_KIT PF FIXACAO M2"
+  ],
+  "nome": "TUNEL RETO 1M M3"
+}

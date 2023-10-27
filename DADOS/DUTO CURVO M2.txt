@@ -1,0 +1,12 @@
+{
+  "codigo": "2102120005",
+  "derivacao": "30_azul",
+  "lista_derivacao": [
+    "60_verde",
+    "61_limao"
+  ],
+  "nome": "DUTO CURVO M2",
+  "peso": "10.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

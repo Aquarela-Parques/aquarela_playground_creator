@@ -1,0 +1,17 @@
+{
+  "codigo": "3003000034",
+  "derivacao": "40_laranja",
+  "kits_pf": [
+    "0_KIT PF NULO"
+  ],
+  "lista_derivacao": [
+    "40_laranja",
+    "61_limao",
+    "60_verde",
+    "50_lilas"
+  ],
+  "nome": "CADEIRA BALANCO M3",
+  "peso": "1.5",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

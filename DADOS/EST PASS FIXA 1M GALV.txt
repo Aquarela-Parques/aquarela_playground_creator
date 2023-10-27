@@ -1,0 +1,12 @@
+{
+  "codigo": "2232230038",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "EST PASS FIXA 1M GALV",
+  "peso": "6.400000095367432",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,17 @@
+{
+  "codigo": "3003000037",
+  "derivacao": "99_colorida",
+  "kits_pf": [
+    "3003020153_KIT PF PASS FIXA M3"
+  ],
+  "lista_derivacao": [
+    "99_colorida",
+    "30_azul",
+    "60_verde",
+    "70_vermelho"
+  ],
+  "nome": "PASSARELA FIXA 1M M3",
+  "peso": "10.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

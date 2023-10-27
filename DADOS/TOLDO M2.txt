@@ -1,0 +1,16 @@
+{
+  "codigo": "2102190002",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "3003020005_KIT PF TOLDO M2"
+  ],
+  "lista_derivacao": [
+    "60_verde",
+    "30_azul",
+    "70_vermelho"
+  ],
+  "nome": "TOLDO M2",
+  "peso": "8.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

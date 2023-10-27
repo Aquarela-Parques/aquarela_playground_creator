@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020120_KIT PF LATERAL PASS FIXA M3"
+  ],
+  "nome": "LATERAL PASS FIXA 1M M3"
+}

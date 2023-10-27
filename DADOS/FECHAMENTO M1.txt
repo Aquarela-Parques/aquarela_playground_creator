@@ -1,0 +1,17 @@
+{
+  "codigo": "2102160002",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "3003020014_KIT PF FECHAMENTO M1"
+  ],
+  "lista_derivacao": [
+    "60_verde",
+    "30_azul",
+    "40_laranja",
+    "61_limao"
+  ],
+  "nome": "FECHAMENTO M1",
+  "peso": "3.5",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

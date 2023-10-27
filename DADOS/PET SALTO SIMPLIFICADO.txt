@@ -1,0 +1,15 @@
+{
+  "codigo": "4004000030",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020127_KIT PF PET SALTO SIMPLIFICADO TERRA",
+    "3003020128_KIT PF PET SALTO SIMPLIFICADO PISO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PET SALTO SIMPLIFICADO",
+  "peso": "11.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

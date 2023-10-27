@@ -1,0 +1,18 @@
+{
+  "codigo": "210160010",
+  "derivacao": "20_amarelo",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "20_amarelo",
+    "60_verde",
+    "61_limao",
+    "30_azul",
+    "50_lilas",
+    "40_laranja",
+    "70_vermelho"
+  ],
+  "nome": "BORDA M2",
+  "peso": "5.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

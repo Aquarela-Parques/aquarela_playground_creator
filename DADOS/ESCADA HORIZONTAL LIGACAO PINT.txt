@@ -1,0 +1,14 @@
+{
+  "codigo": "2262260034",
+  "derivacao": "05_unica",
+  "kits_pf": [
+    "3003020136_KIT PF ESCADA HORIZONTAL LIGACAO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "ESCADA HORIZONTAL LIGACAO PINT",
+  "peso": "11.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

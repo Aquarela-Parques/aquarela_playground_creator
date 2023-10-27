@@ -1,0 +1,12 @@
+{
+  "codigo": "3003000020",
+  "derivacao": "98_sortida",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "RAMPA DE TACOS M2",
+  "peso": "17.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

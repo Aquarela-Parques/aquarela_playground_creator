@@ -1,0 +1,12 @@
+{
+  "codigo": "3003000009",
+  "derivacao": "98_sortida",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "ESCADA DE DISCO M1",
+  "peso": "23.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

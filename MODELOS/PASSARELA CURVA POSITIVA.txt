@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020001_KIT PF PASS CURVA"
+  ],
+  "nome": "PASSARELA CURVA POSITIVA"
+}

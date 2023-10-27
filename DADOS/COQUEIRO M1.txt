@@ -1,0 +1,14 @@
+{
+  "codigo": "2102199005",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "3003020025_KIT PF COQUEIRO M1"
+  ],
+  "lista_derivacao": [
+    "60_verde"
+  ],
+  "nome": "COQUEIRO M1",
+  "peso": "5.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

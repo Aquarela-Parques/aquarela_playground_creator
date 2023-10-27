@@ -1,0 +1,15 @@
+{
+  "codigo": "3003010002",
+  "derivacao": "unica",
+  "kit_cod_piso": "3003020093",
+  "kit_cod_terra": "3003020093",
+  "kit_nome_piso": "KIT PF PASS FIXA 2M M2",
+  "kit_nome_terra": "KIT PF PASS FIXA 2M M2",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PASSARELA FIXA 2M",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

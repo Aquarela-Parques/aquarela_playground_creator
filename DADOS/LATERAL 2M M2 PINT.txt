@@ -1,0 +1,12 @@
+{
+  "codigo": "2262261012",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "LATERAL 2M M2 PINT",
+  "peso": "8.300000190734863",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

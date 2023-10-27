@@ -1,0 +1,13 @@
+{
+  "codigo": "2102120010",
+  "derivacao": "70_vermelho",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "70_vermelho",
+    "60_verde"
+  ],
+  "nome": "DUTO RETO M7",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

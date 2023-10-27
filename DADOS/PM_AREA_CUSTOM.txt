@@ -1,0 +1,12 @@
+{
+  "codigo": "",
+  "derivacao": "",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PM_AREA_CUSTOM",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

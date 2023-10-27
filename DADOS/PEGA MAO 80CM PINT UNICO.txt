@@ -1,0 +1,14 @@
+{
+  "codigo": "2262262004",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020026_KIT PF PEGA MAO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PEGA MAO 80CM PINT UNICO",
+  "peso": "1.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,5 @@
+{
+  "codigo": "2262260025",
+  "nome": "BASE CARROSSEL M1 TERRA PINT",
+  "tipo_derivacao": "05_unica"
+}

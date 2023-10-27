@@ -1,0 +1,16 @@
+{
+  "codigo": "2102160013",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020131_KIT PF PORTAL M4"
+  ],
+  "lista_derivacao": [
+    "30_azul",
+    "61_limao",
+    "60_verde"
+  ],
+  "nome": "PORTAL M4",
+  "peso": "3.5",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

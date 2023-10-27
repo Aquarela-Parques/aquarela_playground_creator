@@ -1,0 +1,15 @@
+{
+  "codigo": "",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "0_KIT PF NULO"
+  ],
+  "lista_derivacao": [
+    "60_verde",
+    "50_lilas"
+  ],
+  "nome": "SUP ASSENTO M2",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

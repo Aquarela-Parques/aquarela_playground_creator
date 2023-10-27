@@ -1,0 +1,12 @@
+{
+  "codigo": "2262260005",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "TRAV BALANCO ACOP M1 PINT",
+  "peso": "12.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

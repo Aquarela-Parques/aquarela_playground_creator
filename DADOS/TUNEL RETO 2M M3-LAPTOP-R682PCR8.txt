@@ -1,0 +1,13 @@
+{
+  "codigo": "3003000044",
+  "derivacao": "60_verde",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "60_verde",
+    "70_vermelho"
+  ],
+  "nome": "TUNEL RETO 2M M3",
+  "peso": "5.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

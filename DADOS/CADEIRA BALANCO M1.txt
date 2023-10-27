@@ -1,0 +1,20 @@
+{
+  "codigo": "3003000001",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "0_KIT PF NULO"
+  ],
+  "lista_derivacao": [
+    "20_amarelo",
+    "60_verde",
+    "61_limao",
+    "40_laranja",
+    "30_azul",
+    "70_vermelho",
+    "50_lilas"
+  ],
+  "nome": "CADEIRA BALANCO M1",
+  "peso": "1.5",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

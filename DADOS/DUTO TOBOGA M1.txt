@@ -1,0 +1,13 @@
+{
+  "codigo": "3003000015",
+  "derivacao": "30_azul",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "DUTO TOBOGA M1",
+  "peso": "25.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,12 @@
+{
+  "codigo": "2102160005",
+  "derivacao": "20_amarelo",
+  "lista_derivacao": [
+    "60_verde",
+    "20_amarelo"
+  ],
+  "nome": "BORDA M1",
+  "peso": 5.0,
+  "preco": 0.0,
+  "tipo_derivacao": "10_cores"
+}

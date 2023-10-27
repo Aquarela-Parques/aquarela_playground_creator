@@ -1,0 +1,12 @@
+{
+  "codigo": "000",
+  "derivacao": "60_verde",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "60_verde"
+  ],
+  "nome": "PINHEIRO 2",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

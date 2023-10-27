@@ -1,0 +1,14 @@
+{
+  "codigo": "2102160007",
+  "derivacao": "60_verde",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "60_verde",
+    "61_limao",
+    "20_amarelo"
+  ],
+  "nome": "PORTAL M3",
+  "peso": "3.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

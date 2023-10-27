@@ -1,0 +1,15 @@
+{
+  "codigo": "3003000042",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020181_KIT PF TUNEL CURVO M2"
+  ],
+  "lista_derivacao": [
+    "61_limao",
+    "30_azul"
+  ],
+  "nome": "TUNEL CURVO M2",
+  "peso": "5.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

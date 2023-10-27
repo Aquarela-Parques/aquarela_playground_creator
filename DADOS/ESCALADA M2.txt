@@ -1,0 +1,17 @@
+{
+  "codigo": "2102140002",
+  "derivacao": "70_vermelho",
+  "kits_pf": [
+    "3003020162_KIT PF ANCORAGEM PISO M3",
+    "3003020160_KIT PF ANCORAGEM TERRA M1",
+    "3003020179_KIT PF FIXACAO M1"
+  ],
+  "lista_derivacao": [
+    "70_vermelho",
+    "30_azul"
+  ],
+  "nome": "ESCALADA M2",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

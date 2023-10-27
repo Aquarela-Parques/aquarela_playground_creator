@@ -1,0 +1,15 @@
+{
+  "codigo": "3003000014",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020033_KIT PF TUNEL CURVO M1"
+  ],
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "TUNEL CURVO M1",
+  "peso": "35.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,14 @@
+{
+  "codigo": "2232230017",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020098_KIT PF L PEQUENO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "L PEQUENO GALV",
+  "peso": "0.10000000149011612",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

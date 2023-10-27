@@ -1,0 +1,11 @@
+{
+  "codigo": "2102199011",
+  "derivacao": "99_colorida",
+  "lista_derivacao": [
+    "99_colorida"
+  ],
+  "nome": "PIRAMIDE M1",
+  "peso": "0.2",
+  "preco": 0.0,
+  "tipo_derivacao": "10_cores"
+}

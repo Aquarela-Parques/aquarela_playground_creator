@@ -1,0 +1,12 @@
+{
+  "codigo": "2262260030",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "EST GANGORRA M1 PINT",
+  "peso": "9.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

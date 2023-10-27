@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020062_KIT PF CARROSSEL M1 PISO"
+  ],
+  "nome": "CARROSSEL M1 PISO"
+}

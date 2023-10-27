@@ -1,0 +1,16 @@
+{
+  "codigo": "3003000017",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020129_KIT PF TOBOGA M4 TERRA",
+    "3003020130_KIT PF TOBOGA M4 PISO"
+  ],
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "TOBOGA M4",
+  "peso": "39.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

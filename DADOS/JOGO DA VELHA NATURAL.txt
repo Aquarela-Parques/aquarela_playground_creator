@@ -1,0 +1,14 @@
+{
+  "codigo": "3003000004",
+  "derivacao": "98_sortida",
+  "kits_pf": [
+    "3003020016_KIT PF JOGO DA VELHA"
+  ],
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "JOGO DA VELHA NATURAL",
+  "peso": "7.599999904632568",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

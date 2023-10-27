@@ -1,0 +1,12 @@
+{
+  "codigo": "2232230043",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "SUP LATERAL 2M M2 GALV",
+  "peso": "2.1700000762939453",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

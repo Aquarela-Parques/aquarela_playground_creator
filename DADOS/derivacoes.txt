@@ -1,0 +1,25 @@
+{
+  "10_cores": [
+    "10_sem cor",
+    "15_cinza",
+    "60_verde",
+    "61_limao",
+    "30_azul",
+    "50_lilas",
+    "20_amarelo",
+    "40_laranja",
+    "70_vermelho",
+    "98_sortida",
+    "99_colorida"
+  ],
+  "20_tam mad plast": [
+    "30_150 CM",
+    "80_230 CM",
+    "90_250 CM",
+    "100_270 CM",
+    "110_280 CM",
+    "120_300 CM",
+    "130_320 CM"
+  ],
+  "05_unica": ["unica"]
+}

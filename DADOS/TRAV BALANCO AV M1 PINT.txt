@@ -1,0 +1,11 @@
+{
+  "codigo": "2262260031",
+  "derivacao": "unica",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "TRAV BALANCO AV M1 PINT",
+  "peso": 12.5,
+  "preco": 0.0,
+  "tipo_derivacao": "05_unica"
+}

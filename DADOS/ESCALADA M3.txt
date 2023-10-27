@@ -1,0 +1,13 @@
+{
+  "codigo": "2102140003",
+  "derivacao": "70_vermelho",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "70_vermelho",
+    "30_azul"
+  ],
+  "nome": "ESCALADA M3",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,12 @@
+{
+  "codigo": "2262261013",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "LATERAL 3M M2 PINT",
+  "peso": "11.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020057_KIT PF SKATE M1 AVULSO TERRA",
+    "3003020107_KIT PF SKATE M1 AVULSO PISO"
+  ],
+  "nome": "BALANCO SKATE AV"
+}

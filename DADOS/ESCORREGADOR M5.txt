@@ -1,0 +1,18 @@
+{
+  "codigo": "2102150006",
+  "derivacao": "61_limao",
+  "kits_pf": [
+    "3003020078_KIT PF ESCORREGADOR M5 PISO",
+    "3003020079_KIT PF ESCORREGADOR M5 TERRA"
+  ],
+  "lista_derivacao": [
+    "61_limao",
+    "50_lilas",
+    "20_amarelo",
+    "60_verde"
+  ],
+  "nome": "ESCORREGADOR M5",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020071_KIT PF BALANCO AVULSO M1 TERRA",
+    "3003020072_KIT PF BALANCO AVULSO M1 PISO"
+  ],
+  "nome": "BALANCO AV M1"
+}

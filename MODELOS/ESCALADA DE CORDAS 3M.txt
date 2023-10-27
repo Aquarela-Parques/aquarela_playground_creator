@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020187_KIT PF ESCALADA CORDA"
+  ],
+  "nome": "ESCALADA DE CORDAS 3M"
+}

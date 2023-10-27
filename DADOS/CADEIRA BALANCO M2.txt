@@ -1,0 +1,18 @@
+{
+  "codigo": "3003000005",
+  "derivacao": "50_lilas",
+  "kits_pf": [
+    "0_KIT PF NULO"
+  ],
+  "lista_derivacao": [
+    "50_lilas",
+    "61_limao",
+    "20_amarelo",
+    "70_vermelho",
+    "60_verde"
+  ],
+  "nome": "CADEIRA BALANCO M2",
+  "peso": "2.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

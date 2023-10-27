@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020023_KIT PF BALANCO ACOP M2 PISO"
+  ],
+  "nome": "BALANCO ACOP M3 PISO"
+}

@@ -1,0 +1,12 @@
+{
+  "codigo": "3003010007",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PASSARELA DE CORDAS 2M",
+  "peso": "30.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

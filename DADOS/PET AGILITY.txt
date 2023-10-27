@@ -1,0 +1,11 @@
+{
+  "codigo": "4004000026",
+  "derivacao": "unica",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PET AGILITY",
+  "peso": 0.0,
+  "preco": 0.0,
+  "tipo_derivacao": "05_unica"
+}

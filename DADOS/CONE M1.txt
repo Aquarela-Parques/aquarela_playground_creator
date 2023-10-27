@@ -1,0 +1,11 @@
+{
+  "codigo": "2102199008",
+  "derivacao": "20_amarelo",
+  "lista_derivacao": [
+    "20_amarelo"
+  ],
+  "nome": "CONE M1",
+  "peso": 4.0,
+  "preco": 0.0,
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,10 @@
+{
+  "codigo": "2102120004",
+  "derivacao": "30_azul",
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "DUTO CURVO M1",
+  "tipo_derivacao": "10_cores"
+}

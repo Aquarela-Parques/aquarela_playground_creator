@@ -1,0 +1,12 @@
+{
+  "codigo": "2262262021",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "MAO FRANCESA 60CM PINT",
+  "peso": "0.49000000953674316",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

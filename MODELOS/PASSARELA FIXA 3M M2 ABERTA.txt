@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020102_KIT PF PASSARELA FIXA 3M M2 ABERTA"
+  ],
+  "nome": "PASSARELA FIXA 3M M2 ABERTA"
+}

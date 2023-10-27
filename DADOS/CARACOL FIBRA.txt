@@ -1,0 +1,16 @@
+{
+  "codigo": "50530001",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020042_KIT PF CARACOL FIBRA TERRA",
+    "3003020031_KIT PF CARACOL FIBRA PISO"
+  ],
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "CARACOL FIBRA",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

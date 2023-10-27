@@ -1,0 +1,12 @@
+{
+  "codigo": "2102170002",
+  "derivacao": "99_colorida",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "99_colorida"
+  ],
+  "nome": "PLATAFORMA M2",
+  "peso": "10.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

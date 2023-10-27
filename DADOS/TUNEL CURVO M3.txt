@@ -1,0 +1,16 @@
+{
+  "codigo": "3003000043",
+  "derivacao": "30_azul",
+  "kits_pf": [
+    "3003020186_KIT PF FIXACAO M2",
+    "3003020186_KIT PF FIXACAO M2"
+  ],
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde"
+  ],
+  "nome": "TUNEL CURVO M3",
+  "peso": "35.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

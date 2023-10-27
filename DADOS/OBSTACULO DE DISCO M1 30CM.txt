@@ -1,0 +1,14 @@
+{
+  "codigo": "3003000029",
+  "derivacao": "40_laranja",
+  "kits_pf": [
+    "3003020096_KIT PF OBSTACULO DE DISCO PISO"
+  ],
+  "lista_derivacao": [
+    "40_laranja"
+  ],
+  "nome": "OBSTACULO DE DISCO M1 30CM",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

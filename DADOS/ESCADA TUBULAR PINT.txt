@@ -1,0 +1,15 @@
+{
+  "codigo": "2262260002",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020056_KIT PF ESCADA TUBULAR TERRA",
+    "3003020032_KIT PF ESCADA TUBULAR PISO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "ESCADA TUBULAR PINT",
+  "peso": "17.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

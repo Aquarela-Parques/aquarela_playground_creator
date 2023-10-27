@@ -1,0 +1,12 @@
+{
+  "codigo": "2102199004",
+  "derivacao": "40_laranja",
+  "lista_derivacao": [
+    "60_verde",
+    "40_laranja"
+  ],
+  "nome": "JUNCAO M1",
+  "peso": "1.3",
+  "preco": 0.0,
+  "tipo_derivacao": "10_cores"
+}

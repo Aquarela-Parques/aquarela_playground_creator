@@ -1,0 +1,12 @@
+{
+  "codigo": "2262262005",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "PE PLACA INFORMATIVA PINT",
+  "peso": "2.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

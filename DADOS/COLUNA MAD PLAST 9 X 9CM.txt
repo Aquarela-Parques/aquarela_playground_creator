@@ -1,0 +1,12 @@
+{
+  "codigo": "40410001",
+  "derivacao": "10_82 CM",
+  "kits_pf": [
+    "3003020143_KIT PF TORRE ACOP L PEQUENO GALV FOGO PISO"
+  ],
+  "lista_derivacao": [],
+  "nome": "COLUNA MAD PLAST 9 X 9CM",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "20_tam mad plast"
+}

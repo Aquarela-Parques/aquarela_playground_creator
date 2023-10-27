@@ -1,0 +1,12 @@
+{
+  "codigo": "50500023",
+  "derivacao": "15_cinza",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "15_cinza"
+  ],
+  "nome": "PF SX ATARRAXANTE 5-16 X 75MM ZI",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

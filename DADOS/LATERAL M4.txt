@@ -1,0 +1,13 @@
+{
+  "codigo": "2102160012",
+  "derivacao": "61_limao",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "61_limao",
+    "20_amarelo"
+  ],
+  "nome": "LATERAL M4",
+  "peso": "2.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

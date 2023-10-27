@@ -1,0 +1,13 @@
+{
+  "codigo": "3003000024",
+  "derivacao": "30_azul",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "30_azul",
+    "61_limao"
+  ],
+  "nome": "DUTO TOBOGA M3 LADO A",
+  "peso": "15.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

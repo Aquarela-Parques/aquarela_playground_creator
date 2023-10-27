@@ -1,0 +1,5 @@
+{
+  "codigo": "2262261006",
+  "nome": "LATERAL 1M PINT",
+  "tipo_derivacao": "05_unica"
+}

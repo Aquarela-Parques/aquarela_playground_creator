@@ -1,0 +1,16 @@
+{
+  "codigo": "2102160003",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "3003020019_KIT PF PORTAL M1"
+  ],
+  "lista_derivacao": [
+    "60_verde",
+    "61_limao",
+    "30_azul"
+  ],
+  "nome": "PORTAL M1",
+  "peso": "4.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

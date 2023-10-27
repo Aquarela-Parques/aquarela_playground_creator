@@ -1,0 +1,15 @@
+{
+  "codigo": "2262260004",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020054_KIT PF BOMBEIRO TERRA",
+    "3003020028_KIT PF BOMBEIRO PISO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "BOMBEIRO M1 PINT",
+  "peso": "5.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

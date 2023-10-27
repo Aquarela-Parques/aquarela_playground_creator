@@ -1,0 +1,12 @@
+{
+  "codigo": "50510041 ",
+  "derivacao": "15_cinza",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "15_cinza"
+  ],
+  "nome": "BUCHA N12",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

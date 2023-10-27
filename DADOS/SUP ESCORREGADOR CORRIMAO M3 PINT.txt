@@ -1,0 +1,5 @@
+{
+  "codigo": "2262262024",
+  "nome": "SUP ESCORREGADOR CORRIMAO M3 PINT",
+  "tipo_derivacao": "05_unica"
+}

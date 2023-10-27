@@ -1,0 +1,14 @@
+{
+  "codigo": "40420001",
+  "derivacao": "unica",
+  "kits_pf": [
+    "0_KIT PF NULO"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "BANCO MAD PLAST",
+  "peso": "25.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

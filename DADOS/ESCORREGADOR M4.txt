@@ -1,0 +1,18 @@
+{
+  "codigo": "2102150004",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "3003020043_KIT PF ESCORREGADOR M4 TERRA",
+    "3003020021_KIT PF ESCORREGADOR M4 PISO"
+  ],
+  "lista_derivacao": [
+    "60_verde",
+    "70_vermelho",
+    "20_amarelo",
+    "40_laranja"
+  ],
+  "nome": "ESCORREGADOR M4",
+  "peso": "14.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

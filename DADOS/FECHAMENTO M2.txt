@@ -1,0 +1,16 @@
+{
+  "codigo": "2102160015",
+  "derivacao": "50_lilas",
+  "kits_pf": [
+    "3003020139_KIT PF FECHAMENTO M2"
+  ],
+  "lista_derivacao": [
+    "50_lilas",
+    "61_limao",
+    "40_laranja"
+  ],
+  "nome": "FECHAMENTO M2",
+  "peso": "3.200000047683716",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

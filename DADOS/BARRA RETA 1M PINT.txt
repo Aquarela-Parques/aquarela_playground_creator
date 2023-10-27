@@ -1,0 +1,14 @@
+{
+  "codigo": "2262262001",
+  "derivacao": "unica",
+  "kits_pf": [
+    "3003020030_KIT PF BARRA RETA 1M"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "BARRA RETA 1M PINT",
+  "peso": "1.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

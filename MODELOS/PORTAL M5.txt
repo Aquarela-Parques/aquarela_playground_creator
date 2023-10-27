@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020014_KIT PF FECHAMENTO M1"
+  ],
+  "nome": "PORTAL M5"
+}

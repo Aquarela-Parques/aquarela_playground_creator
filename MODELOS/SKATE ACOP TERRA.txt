@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020106_KIT PF SKATE M1 ACOPLADO TERRA"
+  ],
+  "nome": "SKATE ACOP TERRA"
+}

@@ -1,0 +1,13 @@
+{
+  "codigo": "2102160016",
+  "derivacao": "99_colorida",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "99_colorida",
+    "60_verde"
+  ],
+  "nome": "PORTAL M5",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

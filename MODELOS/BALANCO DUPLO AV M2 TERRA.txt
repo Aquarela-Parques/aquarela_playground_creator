@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020068_KIT PF BALANCO AV M2 TERRA"
+  ],
+  "nome": "BALANCO DUPLO AV M2 TERRA"
+}

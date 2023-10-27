@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020113_KIT PF TOBOGA M2 TERRA",
+    "3003020114_KIT PF TOBOGA M2 PISO"
+  ],
+  "nome": "TOBOGA M2-2"
+}

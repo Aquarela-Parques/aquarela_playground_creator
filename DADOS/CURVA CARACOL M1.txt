@@ -1,0 +1,14 @@
+{
+  "codigo": "2102150008",
+  "derivacao": "60_verde",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "60_verde",
+    "70_vermelho",
+    "50_lilas"
+  ],
+  "nome": "CURVA CARACOL M1",
+  "peso": "20.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

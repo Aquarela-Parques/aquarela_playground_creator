@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020053_KIT PF PASS CORDAS M2"
+  ],
+  "nome": "PASSARELA DE CORDAS 3M"
+}

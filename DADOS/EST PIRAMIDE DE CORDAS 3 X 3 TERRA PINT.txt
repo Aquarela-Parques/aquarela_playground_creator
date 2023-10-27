@@ -1,0 +1,14 @@
+{
+  "codigo": "2262260062",
+  "derivacao": "05_unica",
+  "kits_pf": [
+    "3003020167_KIT PF PIRAMIDE DE CORDAS 3 X 3"
+  ],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "EST PIRAMIDE DE CORDAS 3 X 3 TERRA PINT",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

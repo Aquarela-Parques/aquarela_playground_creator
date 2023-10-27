@@ -1,0 +1,19 @@
+{
+  "codigo": "2102150001",
+  "derivacao": "40_laranja",
+  "kits_pf": [
+    "3003020007_KIT PF ESCORREGADOR M1 TERRA",
+    "3003020037_KIT PF ESCORREGADOR M1 PISO"
+  ],
+  "lista_derivacao": [
+    "40_laranja",
+    "20_amarelo",
+    "60_verde",
+    "70_vermelho",
+    "30_azul"
+  ],
+  "nome": "ESCORREGADOR M1",
+  "peso": "13.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

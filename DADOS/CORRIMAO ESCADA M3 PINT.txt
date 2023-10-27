@@ -1,0 +1,12 @@
+{
+  "codigo": "2262261008",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "CORRIMAO ESCADA M3 PINT",
+  "peso": "4.0",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

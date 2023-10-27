@@ -1,0 +1,7 @@
+{
+  "kits_pf": [
+    "3003020103_KIT PF ESCADA M5 TERRA",
+    "3003020104_KIT PF ESCADA M5 PISO"
+  ],
+  "nome": "ESCADA M5"
+}

@@ -1,0 +1,16 @@
+{
+  "codigo": "3003000003",
+  "derivacao": "61_limao",
+  "kits_pf": [
+    "3003020162_KIT PF ANCORAGEM PISO M3",
+    "3003020160_KIT PF ANCORAGEM TERRA M1",
+    "3003020179_KIT PF FIXACAO M1"
+  ],
+  "lista_derivacao": [
+    "61_limao"
+  ],
+  "nome": "TEIA DE ARANHA M2",
+  "peso": "6.0",
+  "preco": "3003000064.0",
+  "tipo_derivacao": "10_cores"
+}

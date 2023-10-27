@@ -1,0 +1,14 @@
+{
+  "codigo": "3003000016",
+  "derivacao": "30_azul",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "30_azul",
+    "60_verde",
+    "61_limao"
+  ],
+  "nome": "MEIO DUTO TOBOGA M1 COM BORDA",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

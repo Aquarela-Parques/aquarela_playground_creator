@@ -1,0 +1,5 @@
+{
+  "codigo": "2262260010",
+  "nome": "TRAV BALANCO DUPLO ACOP M2 PINT",
+  "tipo_derivacao": "05_unica"
+}

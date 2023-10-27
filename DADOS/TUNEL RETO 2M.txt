@@ -1,0 +1,17 @@
+{
+  "codigo": "3003000013",
+  "derivacao": "70_vermelho",
+  "kits_pf": [
+    "3003020006_KIT PF TUNEL RETO"
+  ],
+  "lista_derivacao": [
+    "70_vermelho",
+    "60_verde",
+    "61_limao",
+    "40_laranja"
+  ],
+  "nome": "TUNEL RETO 2M",
+  "peso": "35.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

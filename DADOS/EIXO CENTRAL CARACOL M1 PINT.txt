@@ -1,0 +1,12 @@
+{
+  "codigo": "2262260055",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "EIXO CENTRAL CARACOL M1 PINT",
+  "peso": "5.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

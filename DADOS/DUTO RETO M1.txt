@@ -1,0 +1,12 @@
+{
+  "codigo": "2102120001",
+  "derivacao": "70_vermelho",
+  "lista_derivacao": [
+     "60_verde",    
+     "70_vermelho"
+  ],
+  "nome": "DUTO RETO M1",
+  "peso": 10.0,
+  "preco": 0.0,
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,9 @@
+{
+  "codigo": "4004000005",
+  "derivacao": "98_sortida",
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "CARROSSEL M2 TERRA",
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,6 @@
+{
+  "kits_pf": [
+    "3003020069_KIT PF BALANCO AV M2 PISO"
+  ],
+  "nome": "BALANCO DUPLO AV M2 PISO"
+}

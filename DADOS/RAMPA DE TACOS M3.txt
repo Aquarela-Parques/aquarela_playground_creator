@@ -1,0 +1,16 @@
+{
+  "codigo": "3003000022",
+  "derivacao": "60_verde",
+  "kits_pf": [
+    "3003020115_KIT PF RAMPA DE TACOS M3 TERRA",
+    "3003020116_KIT PF RAMPA DE TACOS M3 PISO"
+  ],
+  "lista_derivacao": [
+    "60_verde",
+    "70_vermelho"
+  ],
+  "nome": "RAMPA DE TACOS M3",
+  "peso": "10.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

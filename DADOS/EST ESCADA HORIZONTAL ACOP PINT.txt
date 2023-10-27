@@ -1,0 +1,11 @@
+{
+  "codigo": "2262260049",
+  "derivacao": "unica",
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "EST ESCADA HORIZONTAL ACOP PINT",
+  "peso": "7.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

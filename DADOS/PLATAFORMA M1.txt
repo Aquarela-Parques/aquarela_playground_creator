@@ -1,0 +1,14 @@
+{
+  "codigo": "2102170001",
+  "derivacao": "15_cinza",
+  "kits_pf": [
+    "3003020009_KIT PF PLATAFORMA M1"
+  ],
+  "lista_derivacao": [
+    "15_cinza"
+  ],
+  "nome": "PLATAFORMA M1",
+  "peso": "0.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}

@@ -1,0 +1,12 @@
+{
+  "codigo": "2262260019",
+  "derivacao": "unica",
+  "kits_pf": [],
+  "lista_derivacao": [
+    "unica"
+  ],
+  "nome": "HASTE CIRC DISCO M1 PINT",
+  "peso": "1.5",
+  "preco": "0.0",
+  "tipo_derivacao": "05_unica"
+}

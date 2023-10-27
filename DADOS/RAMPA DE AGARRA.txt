@@ -1,0 +1,16 @@
+{
+  "codigo": "3003000033",
+  "derivacao": "98_sortida",
+  "kits_pf": [
+    "3003020160_KIT PF ANCORAGEM TERRA M1",
+    "3003020159_KIT PF ANCORAGEM PISO M1",
+    "3003020179_KIT PF FIXACAO M1"
+  ],
+  "lista_derivacao": [
+    "98_sortida"
+  ],
+  "nome": "RAMPA DE AGARRA",
+  "peso": "17.0",
+  "preco": "0.0",
+  "tipo_derivacao": "10_cores"
+}
