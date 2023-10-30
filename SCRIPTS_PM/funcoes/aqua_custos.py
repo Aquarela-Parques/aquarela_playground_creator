@@ -1,7 +1,8 @@
 import ast
 import csv
 import os
-from icecream import ic
+
+# from icecream import ic
 import bpy
 from database.aqua_database import conexao_banco_local
 import pandas as pd
@@ -263,11 +264,11 @@ def calculo_soma_total_local():
     soma_total = 0
     for i in calculo_custo_parque_local():
         # tabela_custos = {i[0][0]: [i[0][1], i[0][2], i[0][3]]}
-        # # ic(i, len(i))
+        # # print(i, len(i))
         # dataframe = pd.DataFrame.from_dict(
         #     tabela_custos, orient="index", columns=["ITEM", "DERIVACAO", "CUSTO"]
         # )
-        # ic(dataframe)
+        # print(dataframe)
         if len(i) == 0:
             soma_total = 9999999999999999999.9999999
             painel_aviso(
@@ -312,7 +313,7 @@ def gerar_tabela_custo_por_item(nome_arquivo):
         list(lista_tratada()),
         columns=["CODIGO", "DESCRIÇÃO", "DERIVACAO", "PRECO DE CUSTO"],
     )
-    ic(df)
+    print(df)
     caminho_arquivo = os.path.join(desktop, f"{nome_arquivo} - CUSTO POR ITEM.xlsx")
     df.to_excel(
         caminho_arquivo,

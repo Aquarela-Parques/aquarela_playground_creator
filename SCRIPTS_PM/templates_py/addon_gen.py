@@ -7,7 +7,8 @@
 
 import os
 import bpy
-from icecream import ic
+
+# from icecream import ic
 
 classes = ()
 

@@ -6,7 +6,8 @@ import os
 import re
 import sqlite3
 from pathlib import Path
-from icecream import ic
+
+# from icecream import ic
 import bpy
 import pandas as pd
 from database.aqua_database import conexao_banco_local
@@ -84,13 +85,13 @@ def update_derivacao(self, context):
     #     )
     #     and obj.hide_viewport == False
     # ):
-    #     ic(f"{str(obj.aqua.nome)} -:- {str(obj.aqua.derivacao)}")
+    #     print(f"{str(obj.aqua.nome)} -:- {str(obj.aqua.derivacao)}")
 
     #     obj_importador = {obj.aqua.codigo: [obj.aqua.nome, obj.aqua.derivacao]}
     #     dataframe = pd.DataFrame.from_dict(
     #         obj_importador, orient="index", columns=["ITEM", "DERIVACAO"]
     #     )
-    #     ic(dataframe)
+    #     print(dataframe)
 
 
 def update_altura(self, context):
@@ -543,7 +544,7 @@ def carregar_dados_json(obj):
     """
 
     pm_db.execute(select_props, (codigo_aqua,))
-    from icecream import ic
+    # from icecream import ic
 
     for info_item in pm_db.fetchall():
         aqua.peso = float(info_item[5])
@@ -551,7 +552,7 @@ def carregar_dados_json(obj):
         aqua.derivaco = info_item[4]
         aqua.preco = float(info_item[0])
 
-        # ic(aqua.codigo, aqua.peso, aqua.derivacao, f"R$ {round(float(aqua.preco), 2)}")
+        # print(aqua.codigo, aqua.peso, aqua.derivacao, f"R$ {round(float(aqua.preco), 2)}")
 
         if aqua.nome != "COLUNA MAD PLAST 9 X 9CM":
             obj.kit_pf.clear()
