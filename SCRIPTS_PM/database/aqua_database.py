@@ -1,19 +1,22 @@
 import os
-import socket
+
+# import socket
 import sqlite3
-from pathlib import Path
 
-import bpy
-import duckdb as dk
-import pandas as pd
-import pyodbc
-import sqlalchemy as sql
-from bpy.props import BoolProperty
-from pyodbc import connect
-from sqlalchemy.engine import URL, create_engine
-from tcp_latency import measure_latency
+# from pathlib import Path as Pathlib
 
-from bpy_plus.file_system import Path
+# import bpy
+
+# import duckdb as dk
+# import pandas as pd
+# import pyodbc
+# import sqlalchemy as sql
+# from bpy.props import BoolProperty
+# from pyodbc import connect
+# from sqlalchemy.engine import URL, create_engine
+# from tcp_latency import measure_latency
+
+# from bpy_plus.file_system import Path
 
 
 def conexao_banco_local():
